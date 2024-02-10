@@ -1,0 +1,3 @@
+0
+SimpleGoal:A,B,10,False
+EternalGoal:C,D,20
